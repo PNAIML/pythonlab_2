@@ -1,0 +1,38 @@
+Windows(Pillow/Image/CV2) Jupyter NoteBook
+https://imageprocessingplace.com/root_files_V3/image_databases.htm
+(1) Reading an image
+from PIL import Image
+
+# Open an image file
+image = Image.open(r'C:\Users\HP\Pictures\Saved Pictures\PLANE.jpg')
+
+# Display the image
+image.show()
+
+(2) Reading an image
+
+pip install opencv-python
+
+
+import cv2
+
+# Read the image
+image = cv2.imread(r'C:\Users\HP\Pictures\Saved Pictures\PLANE.jpg')
+
+# Display the image
+cv2.imshow('Image', image)
+
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
+(3) using MATPLOT LIB
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+# Read the image
+image = mpimg.imread(r'C:\Users\HP\Pictures\Saved Pictures\1.jpg')
+
+# Display the image
+plt.imshow(image)
+plt.axis('off')  # Hide axes
+plt.show()
