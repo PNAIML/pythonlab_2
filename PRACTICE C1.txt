@@ -1,0 +1,93 @@
+Here are 10 multiple-choice questions (MCQs) with answers covering the three types of machine learning applications you mentioned:
+
+### **1. Image Recognition**  
+**Question:** What is the primary function of image recognition in machine learning?  
+A) Identifying objects within images  
+B) Converting images into audio files  
+C) Encrypting images for security  
+D) Predicting the next frame in a video  
+
+**Correct Answer:** **A) Identifying objects within images**  
+
+### **2. Speech Recognition**  
+**Question:** Which of the following best describes speech recognition technology?  
+A) Recognizing gestures and facial expressions  
+B) Converting spoken language into text  
+C) Predicting voice tones in music composition  
+D) Encrypting voice signals for security  
+
+**Correct Answer:** **B) Converting spoken language into text**  
+
+### **3. Data Classification**  
+**Question:** What is the key role of data classification in machine learning?  
+A) Organizing data into predefined categories  
+B) Detecting hidden patterns in images  
+C) Identifying similarities in human voice tones  
+D) Generating new data from existing datasets  
+
+**Correct Answer:** **A) Organizing data into predefined categories**  
+
+### **4. Image Recognition**  
+**Question:** Which of these algorithms is commonly used for image recognition?  
+A) Convolutional Neural Networks (CNNs)  
+B) Decision Trees  
+C) K-Means Clustering  
+D) Support Vector Machines  
+
+**Correct Answer:** **A) Convolutional Neural Networks (CNNs)**  
+
+### **5. Speech Recognition**  
+**Question:** Speech recognition systems primarily rely on which type of processing?  
+A) Natural Language Processing (NLP)  
+B) Image Processing  
+C) Genetic Algorithms  
+D) Quantum Computing  
+
+**Correct Answer:** **A) Natural Language Processing (NLP)**  
+
+### **6. Data Classification**  
+**Question:** What type of learning method is often used in data classification?  
+A) Supervised Learning  
+B) Reinforcement Learning  
+C) Unsupervised Learning  
+D) Genetic Learning  
+
+**Correct Answer:** **A) Supervised Learning**  
+
+### **7. Image Recognition**  
+**Question:** Which of the following datasets is commonly used in training image recognition models?  
+A) MNIST  
+B) LibriSpeech  
+C) WordNet  
+D) CIFAR-10  
+
+**Correct Answer:** **D) CIFAR-10**  
+
+### **8. Speech Recognition**  
+**Question:** What is a major challenge in speech recognition technology?  
+A) Handling multiple accents and dialects  
+B) Identifying images within audio files  
+C) Removing duplicate data from datasets  
+D) Predicting emotions from voice recordings  
+
+**Correct Answer:** **A) Handling multiple accents and dialects**  
+
+### **9. Data Classification**  
+**Question:** Which of the following algorithms is widely used for data classification?  
+A) Decision Trees  
+B) K-Means Clustering  
+C) Principal Component Analysis (PCA)  
+D) Genetic Algorithms  
+
+**Correct Answer:** **A) Decision Trees**  
+
+### **10. Image, Speech, and Data Classification**  
+**Question:** What is a common feature across image recognition, speech recognition, and data classification?  
+A) They all utilize machine learning for pattern recognition  
+B) They require manual input for every step  
+C) They do not involve artificial intelligence  
+D) They are only used for entertainment purposes  
+
+**Correct Answer:** **A) They all utilize machine learning for pattern recognition**  
+
+
